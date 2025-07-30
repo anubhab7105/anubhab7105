@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Anubhab 👋
 
-<!--
-**anubhab7105/anubhab7105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **tech enthusiast** and student, blending creativity with code to craft unique solutions and digital experiences. I love exploring new technologies, learning, and building projects that help me grow as a developer.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Student passionate about tech and innovation
+- 💻 Skilled in: **HTML**, **CSS**, **JavaScript**, **Python**
+- 🛠️ Always experimenting with new ideas and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- [My_Portfolio](https://github.com/anubhab7105/My_Portfolio): Showcasing my skills, projects, and digital journey
+- [PRODIGY_FS_03](https://github.com/anubhab7105/PRODIGY_FS_03): Another exciting project demonstrating my growth
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/anubhab7105)
+
+## ✨ Fun Fact
+> "Blending creativity with code to craft."
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or just say hi!
