@@ -7,20 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:111827,100:06B6D4&text=ANUBHAB%20DAS&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Engineering%20%7C%20Applied%20AI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Anubhab Das — cybersecurity, full-stack engineering and applied AI" />
 
-<a href="https://anubhab-das.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/anubhab7105/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?user=qOzRzE8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="mailto:anubhab7105@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+security-aware+digital+experiences;Turning+ideas+into+useful+full-stack+products;Exploring+AI+systems+and+privacy-preserving+tech;Researching+security%2C+TinyML+%26+edge+computing" alt="Animated introduction" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anubhab7105&style=flat-square&color=06B6D4&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/anubhab7105?style=flat-square&color=0891B2&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/anubhab7105?style=flat-square&color=0891B2&label=STARS)
 
 </div>
 
@@ -77,7 +64,7 @@ Hey! I'm **Anubhab Das** — a Cyber Security undergraduate at **Guru Nanak Inst
 
 <div align="center">
 
-<a href="https://anubhab-das.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://www.anubhab.xyz/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/anubhab7105/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 <a href="https://x.com/Anubhab7105"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/></a>
 <a href="https://instagram.com/anubhab.env"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
