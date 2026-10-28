@@ -1,0 +1,46 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/activity-graph.yml"
+      - "scripts/generate_activity_graph.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity-graph
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate and publish activity graph
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate SVG from the public contribution calendar
+        run: python scripts/generate_activity_graph.py --output dist/activity-graph.svg
+
+      - name: Publish the generated SVG to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: \${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+          keep_files: false
+          commit_message: "chore: refresh public GitHub activity graph"
