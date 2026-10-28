@@ -1,24 +1,205 @@
-# 💫 About Me:
-🔭 I’m currently working on building skills<br>👯 I’m looking to collaborate on Full-Stack Project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning python<br>💬 Ask me about frontend development  <br>⚡ Fun fact I'm Blending creativity with code to craft.
+<!--
+  Anubhab Das | GitHub Profile README
+  Designed for GitHub's Markdown renderer.
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15p2sMETzJ/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anubhab.env) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhab7105) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/3D1q3Du3v) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anubhab7105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhab7105@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:111827,100:06B6D4&text=ANUBHAB%20DAS&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Engineering%20%7C%20Applied%20AI&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Anubhab Das — cybersecurity, full-stack engineering and applied AI" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anubhab7105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anubhab7105&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab7105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://anubhab-das.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/anubhab7105/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://scholar.google.com/citations?user=qOzRzE8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="mailto:anubhab7105@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anubhab7105&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+security-aware+digital+experiences;Turning+ideas+into+useful+full-stack+products;Exploring+AI+systems+and+privacy-preserving+tech;Researching+security%2C+TinyML+%26+edge+computing" alt="Animated introduction" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anubhab7105&style=flat-square&color=06B6D4&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/anubhab7105?style=flat-square&color=0891B2&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/anubhab7105?style=flat-square&color=0891B2&label=STARS)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anubhab7105&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+Hey! I'm **Anubhab Das** — a Cyber Security undergraduate at **Guru Nanak Institute of Technology (GNIT), Kolkata**, graduating in 2028. I like working where **web engineering, security, and applied AI** meet: understanding a problem, building the system, testing the edges, and polishing the experience.
+
+- 🛡️ **Security:** web application security, phishing detection, email-threat analysis, and secure-by-design development.
+- 🧩 **Engineering:** full-stack applications, REST APIs, streaming interfaces, integrations, CI, and deployment.
+- 🤖 **Applied AI:** multi-agent workflows, ML-assisted threat analysis, and practical LLM integrations.
+- 🔬 **Research:** blockchain security, IoT, post-quantum cryptography, TinyML, federated learning, and edge systems.
+- 🌱 **Community:** Web Development Associate at GDG On Campus GNIIT; Class Representative at GNIT.
+- 🤝 **Open to:** thoughtful open-source collaboration, research, internships, and projects in security, full-stack development, or applied AI.
+
+> **My approach:** build things that are useful, make their limitations clear, and keep improving them.
+
+## `featured_work`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 [Assembly](https://github.com/anubhab7105/Assembly)
+**Multi-Agent AI Workspace**
+
+An experimental workspace that coordinates multiple AI agents, compares their responses, explores disagreement, and synthesizes an answer.
+
+`Python` `FastAPI` `Next.js` `React` `TypeScript`
+
+[Live application ↗](https://assembly-murex.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🪪 [NETRAKSHA](https://github.com/anubhab7105/NETRAKSHA)
+**AI-Assisted Identity & Document Screening**
+
+A human-in-the-loop screening concept combining document checks, image signals, face/liveness components, explainable risk recommendations, and audit trails.
+
+`Python` `FastAPI` `React` `OpenCV` `OCR`
+
+[Visit project ↗](https://www.netraksha.xyz/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📨 [ThreatOptic](https://github.com/anubhab7105/ThreatOptic)
+**Email Threat Detection & Forensics**
+
+An investigation workflow for phishing, spoofing, impersonation, suspicious URLs, email authentication signals, and campaign correlation.
+
+`Python` `FastAPI` `React` `scikit-learn` `NLP`
+
+[Try the demo ↗](https://email-scanner-chi.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ [NexusScan](https://github.com/anubhab7105/NEXUSSCAN)
+**Web Security & Phishing Scanner**
+
+A scanner for selected website misconfigurations and suspicious URL signals, with plain-language findings and QR-based URL input.
+
+`Flask` `Python` `JavaScript` `scikit-learn`
+
+[Open scanner ↗](https://nexusscan.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [MedAssist AI](https://github.com/anubhab7105/MedAssist_AI)
+**Healthcare Support Prototype**
+
+An educational healthcare-support app with AI-assisted guidance, profile/history features, emergency-aware checks, and nearby-care discovery.
+
+`Next.js` `TypeScript` `FastAPI` `Supabase`
+
+[Explore app ↗](https://medassist-ctrlv.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [HealthMetrics](https://github.com/anubhab7105/healthmetrics)
+**Healthcare API Modernization**
+
+A backend modernization project with structured API layers, migrations, authentication integrations, consistent errors, and smoke tests.
+
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
+
+[View deployment ↗](https://healthmetrics-blue.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+- 🎨 [CyberASCII](https://github.com/anubhab7105/CyberASCII) — image and camera input to configurable real-time ASCII visuals, with browser graphics and optional AI analysis. [Live app](https://cyber-ascii.vercel.app/)
+- 🔐 [Secure User Authentication](https://github.com/anubhab7105/PRODIGY_FS_01) — authentication-focused implementation exploring password hashing and token-based sessions. [Demo](https://anubhab7105.github.io/PRODIGY_FS_01/)
+- 🧪 [Explore all repositories](https://github.com/anubhab7105?tab=repositories)
+
+</details>
+
+## `toolbox`
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,sql&theme=dark" alt="Python, JavaScript, TypeScript, C, HTML, CSS and SQL"/>
+
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,flask,fastapi&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap, Node.js, Flask and FastAPI"/>
+
+### Data, AI & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis,git,github,docker,vercel&theme=dark" alt="PostgreSQL, MySQL, SQLite, Supabase, Redis, Git, GitHub, Docker and Vercel"/>
+
+</div>
+
+**Security & engineering practice:** OWASP Top 10 awareness · input validation · XSS/SQLi/CSRF mitigation · SSRF safeguards · JWT/bcrypt · rate limiting · security headers · pytest · Vitest · Playwright · GitHub Actions · dependency auditing.
+
+**AI & research interests:** scikit-learn · URL feature engineering · NLP · LLM API integration (Groq, OpenAI, Gemini) · multi-agent orchestration · blockchain/IoT security · TinyML · federated learning · privacy-aware edge systems.
+
+## `research_log`
+
+I also enjoy exploring the engineering ideas behind secure and efficient systems.
+
+| Publication / research | Area |
+|---|---|
+| [Blockchain Based IoT Security: A Comprehensive Review of Architectures, Challenges and Future Directions](https://ieeexplore.ieee.org/document/11364679) | Blockchain · IoT security |
+| [A Systematic Review of Blockchain-Based Security Architectures for Trusted Cloud Data Sharing](https://tsmjournal.com/volume-10-issue-4-2026) | Cloud security · threat models |
+| [Hardware-Aware Co-Design Framework for Efficient TinyML Deployment on Ultra-Low Power Edge Devices](https://zenodo.org/records/20664090) | TinyML · hardware-aware AI |
+| [Offline-First TinyML–Federated Learning Framework for Privacy-Preserving and Energy-Efficient Smart Healthcare Systems](https://zenodo.org/records/20664766) | Federated learning · smart healthcare |
+
+More details: [Google Scholar](https://scholar.google.com/citations?user=qOzRzE8AAAAJ&hl=en) · [IEEE Xplore author profile](https://ieeexplore.ieee.org/author/445612925941485)
+
+## `beyond_the_keyboard`
+
+- ⚽ Football player and co-captain of the GNIT football team.
+- 🎤 2nd position in a GNIT extempore competition.
+- 🎪 Campus and event involvement, including Creative Strokes at Euphonious X Zyzzva 2K26.
+- 🧠 Interested in the balance between technical depth, clear communication, and collaborative leadership.
+
+## `activity`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anubhab7105&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats card"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab7105&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most-used languages card"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=anubhab7105&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=anubhab7105&bg_color=0D1117&color=C9D1D9&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+<sub>GitHub cards are generated by third-party services and may be temporarily unavailable or rate-limited. They reflect the data those services can access; they are not a measure of skill.</sub>
+
+## `connect`
+
+<div align="center">
+
+<a href="https://anubhab-das.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/anubhab7105/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://x.com/Anubhab7105"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/></a>
+<a href="https://instagram.com/anubhab.env"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="mailto:anubhab7105@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+
+<br/>
+
+**Have an interesting security, AI, or developer-tools problem? Let's build something thoughtful.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,100:0B1020" width="100%" alt="Decorative footer"/>
+
+</div>
