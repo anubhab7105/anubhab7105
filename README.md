@@ -67,7 +67,7 @@ Hey! I'm **Anubhab Das** — a Cyber Security undergraduate at **Guru Nanak Inst
 
 <img width="80%" src="https://streak-stats.demolab.com?user=anubhab7105&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=anubhab7105&bg_color=0D1117&color=C9D1D9&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+<a href="https://github.com/anubhab7105"><img width="96%" src="https://raw.githubusercontent.com/anubhab7105/anubhab7105/output/activity-graph.svg" alt="GitHub activity graph — generated from the public contribution calendar and refreshed daily"/></a>
 
 </div>
 
