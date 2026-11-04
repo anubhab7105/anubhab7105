@@ -49,8 +49,12 @@ Hey! I'm **Anubhab Das** — a Cyber Security undergraduate at **Guru Nanak Inst
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anubhab7105&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats card"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab7105&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most-used languages card"/>
+<a href="https://github.com/anubhab7105">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anubhab7105&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats card"/>
+</a>
+<a href="https://github.com/anubhab7105">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anubhab7105&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most-used languages card"/>
+</a>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=anubhab7105&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
 
