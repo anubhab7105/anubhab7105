@@ -15,7 +15,7 @@
 
 ## `WhoamI`
 
-Hey! I'm **Anubhab Das** — a Cyber Security undergraduate at **Guru Nanak Institute of Technology (GNIT), Kolkata**, graduating in 2028. I like working where **web engineering, security, and applied AI** meet: understanding a problem, building the system, testing the edges, and polishing the experience.
+Hey! I'm **Anubhab Das** — a Cyber Security undergraduate at **Guru Nanak Institute of Technology (GNIT), Kolkata**, graduating in 2028. I like working where **web engineering, security, and applied AI**, understanding a problem, building the system, testing the edges, and polishing the experience.
 
 - 🛡️ **Security:** web application security, phishing detection, email-threat analysis, and secure-by-design development.
 - 🧩 **Engineering:** full-stack applications, REST APIs, streaming interfaces, integrations, CI, and deployment.
