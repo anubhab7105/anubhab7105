@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Anubhab Das GitHub contribution activity</title>
+<desc id="chart-desc">Daily public GitHub contribution counts for the 31 days ending 2026-11-28. Total: 662. Active days: 29.</desc>
+<defs><linearGradient id="area-fill" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#06B6D4" stop-opacity="0.34"/><stop offset="100%" stop-color="#06B6D4" stop-opacity="0.015"/></linearGradient></defs>
+<rect width="1200" height="350" rx="18" fill="#0D1117"/>
+<rect x="0.5" y="0.5" width="1199" height="349" rx="17.5" fill="none" stroke="#30363D"/>
+<text x="34" y="42" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">GITHUB ACTIVITY</text>
+<text x="34" y="67" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13">Daily contributions · Oct 29 – Nov 28, 2026</text>
+<text x="1166" y="36" text-anchor="end" fill="#22D3EE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="700">662 contributions</text>
+<text x="1166" y="58" text-anchor="end" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">29 active days · peak 147/day</text>
+<line x1="76" y1="274.00" x2="1166" y2="274.00" stroke="#30363D" stroke-width="1" stroke-dasharray="3 6"/>
+<text x="60" y="278.00" text-anchor="end" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">0</text>
+<line x1="76" y1="233.00" x2="1166" y2="233.00" stroke="#30363D" stroke-width="1" stroke-dasharray="3 6"/>
+<text x="60" y="237.00" text-anchor="end" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">37</text>
+<line x1="76" y1="192.00" x2="1166" y2="192.00" stroke="#30363D" stroke-width="1" stroke-dasharray="3 6"/>
+<text x="60" y="196.00" text-anchor="end" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">74</text>
+<line x1="76" y1="151.00" x2="1166" y2="151.00" stroke="#30363D" stroke-width="1" stroke-dasharray="3 6"/>
+<text x="60" y="155.00" text-anchor="end" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">111</text>
+<line x1="76" y1="110.00" x2="1166" y2="110.00" stroke="#30363D" stroke-width="1" stroke-dasharray="3 6"/>
+<text x="60" y="114.00" text-anchor="end" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">148</text>
+<path d="M 76.00 274 L 76.00 203.08 L 112.33 274.00 L 148.67 274.00 L 185.00 234.11 L 221.33 259.59 L 257.67 252.95 L 294.00 271.78 L 330.33 235.22 L 366.67 265.14 L 403.00 272.89 L 439.33 143.24 L 475.67 262.92 L 512.00 270.68 L 548.33 270.68 L 584.67 245.19 L 621.00 268.46 L 657.33 271.78 L 693.67 269.57 L 730.00 272.89 L 766.33 272.89 L 802.67 229.68 L 839.00 269.57 L 875.33 268.46 L 911.67 258.49 L 948.00 258.49 L 984.33 255.16 L 1020.67 270.68 L 1057.00 247.41 L 1093.33 260.70 L 1129.67 111.11 L 1166.00 239.65 L 1166.00 274 Z" fill="url(#area-fill)"/>
+<path d="M 76.00 203.08 L 112.33 274.00 L 148.67 274.00 L 185.00 234.11 L 221.33 259.59 L 257.67 252.95 L 294.00 271.78 L 330.33 235.22 L 366.67 265.14 L 403.00 272.89 L 439.33 143.24 L 475.67 262.92 L 512.00 270.68 L 548.33 270.68 L 584.67 245.19 L 621.00 268.46 L 657.33 271.78 L 693.67 269.57 L 730.00 272.89 L 766.33 272.89 L 802.67 229.68 L 839.00 269.57 L 875.33 268.46 L 911.67 258.49 L 948.00 258.49 L 984.33 255.16 L 1020.67 270.68 L 1057.00 247.41 L 1093.33 260.70 L 1129.67 111.11 L 1166.00 239.65" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="76.00" cy="203.08" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-10-29: 64 contributions</title></circle>
+<circle cx="112.33" cy="274.00" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-10-30: 0 contributions</title></circle>
+<circle cx="148.67" cy="274.00" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-10-31: 0 contributions</title></circle>
+<circle cx="185.00" cy="234.11" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-01: 36 contributions</title></circle>
+<circle cx="221.33" cy="259.59" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-02: 13 contributions</title></circle>
+<circle cx="257.67" cy="252.95" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-03: 19 contributions</title></circle>
+<circle cx="294.00" cy="271.78" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-04: 2 contributions</title></circle>
+<circle cx="330.33" cy="235.22" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-05: 35 contributions</title></circle>
+<circle cx="366.67" cy="265.14" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-06: 8 contributions</title></circle>
+<circle cx="403.00" cy="272.89" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-07: 1 contribution</title></circle>
+<circle cx="439.33" cy="143.24" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-08: 118 contributions</title></circle>
+<circle cx="475.67" cy="262.92" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-09: 10 contributions</title></circle>
+<circle cx="512.00" cy="270.68" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-10: 3 contributions</title></circle>
+<circle cx="548.33" cy="270.68" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-11: 3 contributions</title></circle>
+<circle cx="584.67" cy="245.19" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-12: 26 contributions</title></circle>
+<circle cx="621.00" cy="268.46" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-13: 5 contributions</title></circle>
+<circle cx="657.33" cy="271.78" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-14: 2 contributions</title></circle>
+<circle cx="693.67" cy="269.57" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-15: 4 contributions</title></circle>
+<circle cx="730.00" cy="272.89" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-16: 1 contribution</title></circle>
+<circle cx="766.33" cy="272.89" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-17: 1 contribution</title></circle>
+<circle cx="802.67" cy="229.68" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-18: 40 contributions</title></circle>
+<circle cx="839.00" cy="269.57" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-19: 4 contributions</title></circle>
+<circle cx="875.33" cy="268.46" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-20: 5 contributions</title></circle>
+<circle cx="911.67" cy="258.49" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-21: 14 contributions</title></circle>
+<circle cx="948.00" cy="258.49" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-22: 14 contributions</title></circle>
+<circle cx="984.33" cy="255.16" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-23: 17 contributions</title></circle>
+<circle cx="1020.67" cy="270.68" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-24: 3 contributions</title></circle>
+<circle cx="1057.00" cy="247.41" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-25: 24 contributions</title></circle>
+<circle cx="1093.33" cy="260.70" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-26: 12 contributions</title></circle>
+<circle cx="1129.67" cy="111.11" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-27: 147 contributions</title></circle>
+<circle cx="1166.00" cy="239.65" r="3.2" fill="#0D1117" stroke="#67E8F9" stroke-width="1.8"><title>2026-11-28: 31 contributions</title></circle>
+<text x="76.00" y="304" text-anchor="start" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">Oct 29</text>
+<text x="330.33" y="304" text-anchor="middle" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">Nov 05</text>
+<text x="584.67" y="304" text-anchor="middle" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">Nov 12</text>
+<text x="839.00" y="304" text-anchor="middle" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">Nov 19</text>
+<text x="1166.00" y="304" text-anchor="end" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12">Nov 28</text>
+<line x1="34" y1="320" x2="1166" y2="320" stroke="#21262D"/>
+<text x="34" y="338" fill="#6E7681" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10">PUBLIC CONTRIBUTION CALENDAR</text>
+<text x="1166" y="338" text-anchor="end" fill="#6E7681" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10">AUTO-UPDATED BY GITHUB ACTIONS</text>
+</svg>
